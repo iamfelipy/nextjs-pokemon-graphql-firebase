@@ -48,7 +48,7 @@ npm run dev
 
 3. Após isso faça o login com 
 email: teste@gmail.com
-senha: teste123
+senha: teste@gmail.com
 
 ## Links
 
