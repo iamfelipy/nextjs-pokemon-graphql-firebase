@@ -52,6 +52,6 @@ senha: teste@gmail.com
 
 ## Links
 
-Firebase Authetication: https://firebase.google.com/docs/auth?hl=pt
-Nextjs: https://nextjs.org/
-GraphQL: https://graphql.org/
+- Firebase Authetication: https://firebase.google.com/docs/auth?hl=pt
+- Nextjs: https://nextjs.org/
+- GraphQL: https://graphql.org/
