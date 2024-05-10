@@ -3,6 +3,9 @@
 Um aplicativo de Pokemon construído com Nextjs, 
 com as funcionalidades Login e listagem de pokemons com a API POKEAPI. 
 
+![capa readme](capa-1.png)
+![capa readme](capa-2.png)
+
 ## Tecnologias Utilizadas
 
 - javascript
