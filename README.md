@@ -1,4 +1,4 @@
-# Pokemon
+# BACK-END - POKEMON - NEXTJS V12, GRAPHQL, FIREBASE, JAVASCRIPT, STYLED-COMPONENTS, CHAKRA-UI, REACT
 
 Um aplicativo de Pokemon construído com Nextjs, 
 com as funcionalidades Login e listagem de pokemons com a API POKEAPI. 
